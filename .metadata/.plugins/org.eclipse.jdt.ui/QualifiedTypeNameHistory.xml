@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.sj.GUIFactory"/>
+<fullyQualifiedTypeName name="com.sj.Drawing"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.sj.existing.ThreeDShape"/>
+<fullyQualifiedTypeName name="com.sj.latest.Rectangle"/>
+<fullyQualifiedTypeName name="com.sj.existing.Cone"/>
+<fullyQualifiedTypeName name="com.sj.adapter.ThreeDTwoDadapter"/>
+<fullyQualifiedTypeName name="com.sj.existing.Sphere"/>
+<fullyQualifiedTypeName name="com.sj.GBPConverter"/>
+</qualifiedTypeNameHistroy>
